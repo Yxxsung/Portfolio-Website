@@ -1,0 +1,33 @@
+mobile-id{display: inline;}
+
+desktop-id{display:none;}
+
+body {color: #4d2504; background-color: #e5dfc4; font-family: veranda; margin: 0;}
+
+h1{color: #663d06; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 36px; text-align: center;}
+
+h2{color: #583405; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 24px; text-align: center;}
+
+p{color: #4d2504; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 19px; text-align: center;}
+
+#homedes{text-align: center; width: 75%; align-self: center;}
+
+.column {
+width: 33.33%;
+padding: 5px;
+}
+
+.row::after {
+content: "";
+clear: both;
+display: table;
+}
+
+nav{color: #663d06; font-size: 20;}
+
+ul{font-size: 19px; color: #663d06; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; align-self: center;}
+
+li{text-align: center;}
